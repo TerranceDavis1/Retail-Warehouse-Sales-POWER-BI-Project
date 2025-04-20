@@ -4,7 +4,6 @@
 
 ### Dashboard Link : https://app.powerbi.com/links/E8sup8kCag?ctid=4278a402-1a9e-4eb9-8414-ffb55a5fcf1e&pbi_source=linkShare&bookmarkGuid=a086f9e8-a3b9-4cd9-a3c8-4f990a3d7c1a
 
-blob:https://app.powerbi.com/45270692-5461-4ffa-a035-676b6333ffb9
 
 ## Introduction
 
