@@ -3,6 +3,9 @@
 # Warehouse & Retail Sales Analysis
 
 ### Dashboard Link : https://app.powerbi.com/links/E8sup8kCag?ctid=4278a402-1a9e-4eb9-8414-ffb55a5fcf1e&pbi_source=linkShare&bookmarkGuid=a086f9e8-a3b9-4cd9-a3c8-4f990a3d7c1a
+
+blob:https://app.powerbi.com/45270692-5461-4ffa-a035-676b6333ffb9
+
 ## Introduction
 
 This dashboard explores retail sales and warehouse sales trends across various item types and suppliers, providing insights into business performance and opportunities for growth. This project utilizes Power BI to visualize and analyze sales data, identifying key trends and patterns in item type sales, supplier performance, and yearly performance. The analysis reveals top-performing item types, suppliers, and time periods, and provides recommendations for future business decisions. By examining the relationships between sales data, item types, and suppliers, this project aims to inform business strategy and optimize sales performance, ultimately driving business growth and improvement.
