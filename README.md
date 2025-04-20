@@ -2,7 +2,7 @@
 
 # Warehouse & Retail Sales Analysis
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/b3f28b6b-76da-407f-bd2e-6aacaf99a6d6/eccacc1e6dcab397f1ac?experience=power-bi
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/b3f28b6b-76da-407f-bd2e-6aacaf99a6d6/eccacc1e6dcab397f1ac?experience=power-bi](https://app.powerbi.com/groups/me/reports/801ba69a-b93f-41c6-bed2-fef4af436161/eccacc1e6dcab397f1ac?experience=power-bi)
 
 ## Introduction
 
