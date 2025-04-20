@@ -99,3 +99,5 @@ Following inferences can be drawn from the dashboard;
     Dataset - https://www.kaggle.com/datasets/divyeshardeshana/warehouse-and-retail-sales
     Creator - Divyesh Ardeshana
  
+### Key Note
+To viewe in excel, make sure you have connected to the dashboard. Either download the dashboard or ensure that you're connected to the dashbaord.
