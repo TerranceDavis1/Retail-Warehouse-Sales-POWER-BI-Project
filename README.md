@@ -100,4 +100,4 @@ Following inferences can be drawn from the dashboard;
     Creator - Divyesh Ardeshana
  
 ### Key Note
-To viewe in excel, make sure you have connected to the dashboard. Either download the dashboard or ensure that you're connected to the dashbaord.
+To view in excel, make sure you have connected to the dashboard. Either download the dashboard or ensure that you're connected to the dashbaord to do this.
