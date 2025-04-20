@@ -1,6 +1,6 @@
 # Retail-Warehouse-Sales-POWER-BI-Project
 
-# Warehouse & RetaIl Sales Analysis
+# Warehouse & Retail Sales Analysis
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/b3f28b6b-76da-407f-bd2e-6aacaf99a6d6/eccacc1e6dcab397f1ac?experience=power-bi
 
